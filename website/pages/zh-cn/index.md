@@ -38,7 +38,7 @@ header:
   menu:
     - { text: "首頁", link: "/zh-cn" }
     - { text: "菜品展示", link: "#gallery" }
-    - { text: "About Us", link: "#about-us" }
+    - { text: "關於我們", link: "#about-us" }
     - { text: "聯繫我們", link: "#contact-us" }
     - { text: "English", link: "/" }
   
@@ -66,11 +66,12 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.5" # 0~1
     title: 
-      - "Dim Sum Club 點心薈"
+      - "Dim Sum Club"
+      - "點心薈"
     titleColor: "#ffffff"
     description: 
       - "欢迎光临點心薈！在这里，您可以享受传统手工制作的粤式点心，如虾饺、韭菜虾饺、烧卖、叉烧包、潮州粉果、小笼包和肠粉。"
-      - “期待您的光临，让我们一起度过愉快的一天！”
+      - "期待您的光临，让我们一起度过愉快的一天！"
     descriptionColor: "#ffffff"
     # title2: 
     #   - ""
@@ -118,7 +119,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food At Dim Sum Club 點心薈"
+      - "美食展"
     titleColor: "#000000"
     description: 
       - ""
@@ -136,7 +137,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "About Dim Sum Club 點心薈"
+      - "關於我們"
     titleColor: "#000000"
     description: 
       - "欢迎光临 Dim Sum Club 點心薈！"
@@ -152,7 +153,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Welcome To Dim Sum Club 點心薈"
+      - "歡迎光臨"
     titleColor: ""
     description: 
       - ""
@@ -251,7 +252,7 @@ sections:
     bgColor: "#000"
     bgOpacity: "1" # 0~1
     title: 
-      - "NEW! Online Ordering"
+      - "新功能! 在線訂餐"
     titleColor: "#ffffff"
     description: 
       - "現在支援線上訂單自取。只要告訴我們您想要的菜餚，我們會​​盡快準備好。所有訂單都由我們手動確認。您可以即時查看您的食物何時準備好。訂單狀態會即時更新，您可以在螢幕上查看您的食物何時可以取走。"
@@ -310,7 +311,7 @@ footer:
   menu:
     - { text: "首頁", link: "/zh-cn" }
     - { text: "菜品展示", link: "#gallery" }
-    - { text: "About Us", link: "#about-us" }
+    - { text: "關於我們", link: "#about-us" }
     - { text: "聯繫我們", link: "#contact-us" }
     - { text: "English", link: "/" }
 
@@ -330,7 +331,7 @@ footer:
   uberEatsLink: "https://www.ubereats.com/store/dim-sum-club/uaVtE5tHR3S6AipUh3-1ug"
 
 
-  acceptedPaymentMethodsInsteadText: ""
+  acceptedPaymentMethodsInsteadText: "付款方式"
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   # at a minimum, please make sure to include the meta description.

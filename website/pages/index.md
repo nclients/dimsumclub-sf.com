@@ -49,9 +49,9 @@ header:
   addTelBtn: false
   telTextColor: "#000000"
   
-  otherBtn1InsteadText: "See MENU & Order"
+  otherBtn1InsteadText: "Order Oline"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
-  otherBtn2InsteadText: "Table Reservation"
+  otherBtn2InsteadText: "Reservation"
   otherBtn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
 
 sections:
@@ -66,7 +66,8 @@ sections:
     bgColor: "#000000"
     bgOpacity: "0.5" # 0~1
     title: 
-      - "Dim Sum Club 點心薈"
+      - "Dim Sum Club"
+      - "點心薈"
     titleColor: "#ffffff"
     description: 
       - "Welcome to Dim Sum Club, Come and enjoy your day with traditional handmade Cantonese style dim sums such as shrimp dumplings (Har Gow) , chives & shrimp dumplings, Pork dumpling (Siu Mai), BBQ Pork Bun, Techew dumpling, Shanghai dumpling & rice noodle rolls."
@@ -117,7 +118,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food At Dim Sum Club 點心薈"
+      - "Food At Dim Sum Club"
+      - "點心薈"
     titleColor: "#000000"
     description: 
       - ""
@@ -135,7 +137,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "About Dim Sum Club 點心薈"
+      - "About Dim Sum Club"
+      - "點心薈"
     titleColor: "#000000"
     description: 
       - "Welcome to Dim Sum Club,  Come and enjoy your day with traditional handmade Cantonese style dim sums such as shrimp dumplings (Har Gow) , chives & shrimp dumplings, Pork dumpling (Siu Mai), BBQ Pork Bun, Techew dumpling, Shanghai dumpling & rice noodle rolls. We also serve traditional Chinese style seafood dishes. Dim Sum Club offers the authentic taste at reasonable price."
@@ -149,7 +152,8 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Welcome To Dim Sum Club 點心薈"
+      - "Welcome To Dim Sum Club"
+      - "點心薈"
     titleColor: ""
     description: 
       - ""
