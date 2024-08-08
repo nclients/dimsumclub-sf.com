@@ -333,11 +333,12 @@ footer:
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   # at a minimum, please make sure to include the meta description.
-  seo:
-    metaDescription: "Welcome to Dim Sum Club, Come and enjoy your day with traditional handmade Cantonese style dim sums such as shrimp dumplings (Har Gow)..." 
-    keywords: ""
-    img: ""
-    thisPageUrl: ""
-    locale: "en_US" # zh_TW | zh_CN
+seo:
+  metaTitle: "Dim Sum Club 點心薈 - Authentic Cantonese Dim Sums in SF"
+  metaDescription: "Discover Dim Sum Club 點心薈 in San Francisco, CA, where traditional handmade Cantonese dim sums meet outstanding service. takeaway food or Order online now!" 
+  keywords: ""
+  img: ""
+  thisPageUrl: ""
+  locale: "en_US" # zh_TW | zh_CN
 ---
 <!-- hello world -->

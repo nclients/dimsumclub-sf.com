@@ -336,10 +336,11 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
   seo:
-    metaDescription: "A Chinese restaurant located at 1312 Saratoga Ave, San Jose, CA, offers Jiangsu and Zhejiang dishes. We offer takeout and delivery." 
+    metaTitle: "Dim Sum Club 點心薈 - 三藩市的正宗廣東菜，粵菜"
+    metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受传统廣東菜，粵菜与卓越服务的完美结合。還提供外带或在线订购服務！" 
     keywords: ""
     img: ""
     thisPageUrl: ""
-    locale: "en_US" # zh_TW | zh_CN
+    locale: "zh_TW" # zh_TW | zh_CN
 ---
 <!-- hello world -->
