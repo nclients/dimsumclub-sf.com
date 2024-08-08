@@ -69,7 +69,8 @@ sections:
       - "Dim Sum Club 點心薈"
     titleColor: "#ffffff"
     description: 
-      - "欢迎光临點心薈！在这里，您可以享受传统手工制作的粤式点心，如虾饺、韭菜虾饺、烧卖、叉烧包、潮州粉果、小笼包和肠粉。期待您的光临，让我们一起度过愉快的一天！"
+      - "欢迎光临點心薈！在这里，您可以享受传统手工制作的粤式点心，如虾饺、韭菜虾饺、烧卖、叉烧包、潮州粉果、小笼包和肠粉。"
+      - “期待您的光临，让我们一起度过愉快的一天！”
     descriptionColor: "#ffffff"
     # title2: 
     #   - ""
@@ -138,7 +139,9 @@ sections:
       - "About Dim Sum Club 點心薈"
     titleColor: "#000000"
     description: 
-      - "欢迎光临點心薈！在这里，您可以享受传统手工制作的粤式点心，如虾饺、韭菜虾饺、烧卖、叉烧包、潮州粉果、小笼包和肠粉。我们还提供传统中式海鲜菜肴。点心俱乐部致力于以合理的价格为您奉上正宗美味。期待您的光临，让我们一起度过美好的一天！"
+      - "欢迎光临 Dim Sum Club 點心薈！"
+      - "在这里，您可以享受传统手工制作的粤式点心，如虾饺、韭菜虾饺、烧卖、叉烧包、潮州粉果、小笼包和肠粉。我们还提供传统中式海鲜菜肴。点心俱乐部致力于以合理的价格为您奉上正宗美味。"
+      - "期待您的光临，让我们一起度过美好的一天！"
     descriptionColor: ""
 
 # Gallery - Welcome To Dim Sum Club 點心薈
@@ -288,9 +291,9 @@ sections:
 footer:
   mode: 1 # 1
   noMarginTop: true
-  bgImg: "gallery/002_Dim Sum Club 點心薈.jpeg"
+  bgImg: "gallery2/001_Dim Sum Club interior.webp"
   bgColor: "#000"
-  bgOpacity: "0.6" # 0~1
+  bgOpacity: "0.7" # 0~1
   textColor: "#fff" # default white
 
   openingHoursInsteadText: "營業時間"
@@ -299,7 +302,7 @@ footer:
     - "10:30 AM - 3:00 PM, 5:00 PM - 9:00 PM"
     - "週六日:"
     - "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "週日: 不營業"
+    - "週二: 不營業"
   
   isLogo: false
   logoSize: 60
@@ -321,6 +324,11 @@ footer:
   youtubeLink: ""
   yelp: false
   yelpLink: ""
+  doorDash: true
+  doorDashLink: "https://www.doordash.com/store/dim-sum-club-san-francisco-1654701/"
+  uberEats: true
+  uberEatsLink: "https://www.ubereats.com/store/dim-sum-club/uaVtE5tHR3S6AipUh3-1ug"
+
 
   acceptedPaymentMethodsInsteadText: ""
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal

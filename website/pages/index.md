@@ -287,9 +287,9 @@ sections:
 footer:
   mode: 1 # 1
   noMarginTop: true
-  bgImg: "gallery/002_Dim Sum Club 點心薈.jpeg"
+  bgImg: "gallery2/001_Dim Sum Club interior.webp"
   bgColor: "#000"
-  bgOpacity: "0.6" # 0~1
+  bgOpacity: "0.7" # 0~1
   textColor: "#fff" # default white
 
   openingHoursInsteadText: ""
@@ -320,6 +320,10 @@ footer:
   youtubeLink: ""
   yelp: false
   yelpLink: ""
+  doorDash: true
+  doorDashLink: "https://www.doordash.com/store/dim-sum-club-san-francisco-1654701/"
+  uberEats: true
+  uberEatsLink: "https://www.ubereats.com/store/dim-sum-club/uaVtE5tHR3S6AipUh3-1ug"
 
   acceptedPaymentMethodsInsteadText: ""
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
