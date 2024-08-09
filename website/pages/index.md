@@ -13,6 +13,7 @@ ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
 tel: "415-592-8938"
+trackingNum: "415-579-3688"
 
 # banner:
 #   text: 
@@ -32,6 +33,7 @@ header:
     text: ""
     size: 20
     color: ""
+  logoOnMobile: "點心薈LOGO-mobile.webp"
   bgColor: "#fff"
   bgOpacity: "0.9" # 0~1
   menuTextColor: "#000"
