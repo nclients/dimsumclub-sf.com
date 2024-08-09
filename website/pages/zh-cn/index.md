@@ -2,10 +2,10 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-5X48JDV2"
 title: "Dim Sum Club 點心薈 - Best Food Today"
-favicon: "logo.svg" #ico is best
-logo: "logo.svg"
-primaryColor: "#F37734" # logo color
-secondaryColor: "#ADD8E6"
+favicon: "favicon.ico" #ico is best
+logo: "點心薈LOGO-定.webp"
+primaryColor: "#7E1C1D" # logo color
+secondaryColor: ""
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 cuid: ""
@@ -27,9 +27,9 @@ tel: "415-592-8938"
 
 # header
 header:
-  logoSize: 45
+  logoSize: 50
   textAfterLogo: 
-    text: "Dim Sum Club 點心薈"
+    text: ""
     size: 20
     color: ""
   bgColor: "#fff"
@@ -247,10 +247,10 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "Spices 3 辣妹子 - Best Food Today.webp"
-    bgImgAlt: "gallery/豬腩拉麵 Japanese Slow Cook Pork Ramen.webp"
+    bgImg: "gallery/001_Dim Sum Club 點心薈.webp"
+    bgImgAlt: "gallery/001_Dim Sum Club 點心薈.webp"
     bgColor: "#000"
-    bgOpacity: "1" # 0~1
+    bgOpacity: "0.6" # 0~1
     title: 
       - "新功能! 在線訂餐"
     titleColor: "#ffffff"
@@ -299,14 +299,14 @@ footer:
 
   openingHoursInsteadText: "營業時間"
   openingHours: 
-    - "週一, 週三～週五:"
+    - "週一、 週三～週五"
     - "10:30 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "週六、日:"
+    - "週六、日"
     - "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "週二: 休息"
+    - "週二  休息"
   
   isLogo: false
-  logoSize: 60
+  logoSize: 120
  
   menu:
     - { text: "首頁", link: "/zh-cn" }

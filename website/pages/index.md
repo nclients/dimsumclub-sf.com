@@ -2,12 +2,12 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-5X48JDV2"
 title: "Dim Sum Club 點心薈 - Best Food Today"
-favicon: "logo.svg" #ico is best
-logo: "logo.svg"
-primaryColor: "#F37734" # logo color
-secondaryColor: "#ADD8E6"
+favicon: "favicon.ico" #ico is best
+logo: "點心薈LOGO-定.webp"
+primaryColor: "#7E1C1D" # logo color
+secondaryColor: "#EBB73D"
 primaryColorScheme: "dark" # dark | light
-secondaryColorScheme: "light"
+secondaryColorScheme: "dark"
 cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
@@ -27,9 +27,9 @@ tel: "415-592-8938"
 
 # header
 header:
-  logoSize: 45
+  logoSize: 50
   textAfterLogo: 
-    text: "Dim Sum Club 點心薈"
+    text: ""
     size: 20
     color: ""
   bgColor: "#fff"
@@ -305,7 +305,7 @@ footer:
     - "Tue: Closed"
   
   isLogo: false
-  logoSize: 60
+  logoSize: 120
  
   menu:
     - { text: "Home", link: "/" }
