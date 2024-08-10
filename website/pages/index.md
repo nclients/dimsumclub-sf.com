@@ -103,7 +103,7 @@ sections:
     title: 
       - "Dim Sum Club 點心薈"
     description: 
-      - "Come and savor our delicious selections, such as shrimp dumplings (Har Gow) , chives & shrimp dumplings, Pork dumpling (Siu Mai), BBQ Pork Bun, Techew dumpling, Shanghai dumpling & rice noodle rolls—and that’s just the beginning!" 
+      - "Come and savor our delicious selections!" 
     videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
       - "1gus30l309e3Pb9AhQptQPgTK1pv1c"
