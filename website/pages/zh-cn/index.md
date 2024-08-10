@@ -250,7 +250,7 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "gallery/001_Dim Sum Club 點心薈.webp"
+    bgImg: "/gallery/001_Dim Sum Club 點心薈.webp"
     bgImgAlt: "gallery/001_Dim Sum Club 點心薈.webp"
     bgColor: "#000"
     bgOpacity: "0.6" # 0~1
