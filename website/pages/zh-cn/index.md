@@ -61,9 +61,9 @@ sections:
   - type: "hero" 
     id: ""
     height: "80" # Conditionally use only when sectionType is imgBg
-    sectionType: "imgBg" # video | imgWithText | imgBg
-    bgVideoType: "" # youtube | vimeo | gjw
-    bgVideoId: ""
+    sectionType: "video" # video | imgWithText | imgBg
+    bgVideoType: "gjw" # youtube | vimeo | gjw
+    bgVideoId: "1gus30l309e3Pb9AhQptQPgTK1pv1c"
     bgImg: "Dim Sum Club 點心薈.webp"
     bgColor: "#000000"
     bgOpacity: "0.5" # 0~1
@@ -92,7 +92,7 @@ sections:
     btn2Text: "餐桌預定" 
     btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true" 
 
-    bannerImg: "sample.webp"
+    bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
