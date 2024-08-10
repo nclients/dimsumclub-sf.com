@@ -48,7 +48,7 @@ header:
   orderOnlineBtnInsteadText: ""
   addTableReservationBtn: false
   tableReservationBtnInsteadText: ""
-  addTelBtn: false
+  addTelBtn: true
   telTextColor: "#000000"
 
   otherBtn1InsteadText: "在線訂餐"
