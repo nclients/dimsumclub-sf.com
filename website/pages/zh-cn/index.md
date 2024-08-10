@@ -12,8 +12,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
 tableReservationLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
-tel: "415-592-8938"
-trackingNum: "415-579-3688"
+tel: "415-579-3688"
 
 
 # banner:
@@ -270,7 +269,7 @@ sections:
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.3236446052001!2d-122.49179671757695!3d37.742276930733766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7d82ee0f4663%3A0xde21cc529fccf39d!2zRGltIFN1bSBDbHViIOm7nuW_g-iWiA!5e0!3m2!1sen!2sus!4v1723080951228!5m2!1sen!2sus"
     addTelBtn: true
     tel: ""
-    telInsteadText: "電話：（415）592-8938"
+    telInsteadText: "電話：415-579-3688"
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""
     getDirectionBtnInsteadText: "帶我去餐廳"
