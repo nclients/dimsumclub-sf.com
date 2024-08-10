@@ -339,7 +339,7 @@ footer:
   # at a minimum, please make sure to include the meta description.
   seo:
     metaTitle: "Dim Sum Club 點心薈 - 三藩市的正宗廣東菜，粵菜"
-    metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受传统廣東菜，粵菜与卓越服务的完美结合。還提供外带或在线订购服務！" 
+    metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受傳統廣東菜，粵菜与卓越服務的完美结合。還提供外带或在線訂購服務！" 
     keywords: ""
     img: ""
     thisPageUrl: ""
