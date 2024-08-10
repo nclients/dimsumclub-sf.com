@@ -70,7 +70,7 @@ sections:
       - "點心薈"
     titleColor: "#ffffff"
     description: 
-      - "Welcome to Dim Sum Club, Come and enjoy your day with traditional handmade Cantonese style dim sums such as shrimp dumplings (Har Gow) , chives & shrimp dumplings, Pork dumpling (Siu Mai), BBQ Pork Bun, Techew dumpling, Shanghai dumpling & rice noodle rolls."
+      - "Welcome to Dim Sum Club, Come and enjoy your day with traditional handmade Cantonese style dim sums!"
     descriptionColor: "#ffffff"
     # title2: 
     #   - ""
@@ -97,18 +97,17 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
-# # Video
-#   - type: "video"
-#     id: ""
-#     title: 
-#       - "Lorem ipsum dolor sit amet"
-#     description: 
-#       - "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et" 
-#     videoType: "gjw" # vimeo | gjw | youtube
-#     videoId: 
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#     isOnlyDisplayOnMobile: false
+# Video
+  - type: "video"
+    id: "video"
+    title: 
+      - "Dim Sum Club 點心薈"
+    description: 
+      - "Come and savor our delicious selections, such as shrimp dumplings (Har Gow) , chives & shrimp dumplings, Pork dumpling (Siu Mai), BBQ Pork Bun, Techew dumpling, Shanghai dumpling & rice noodle rolls—and that’s just the beginning!" 
+    videoType: "gjw" # vimeo | gjw | youtube
+    videoId: 
+      - "1gus30l309e3Pb9AhQptQPgTK1pv1c"
+    isOnlyDisplayOnMobile: true
 
 # Gallery - menu
   - type: "gallery"

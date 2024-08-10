@@ -72,7 +72,7 @@ sections:
       - "點心薈"
     titleColor: "#ffffff"
     description: 
-      - "歡迎光臨點心薈！在這裡，您可以享受傳統手工製作的粵式點心，如蝦餃、韭菜蝦餃、燒賣、叉燒包、潮州粉果、小籠包和腸粉。"
+      - "歡迎光臨 Dim Sum Club 點心薈！在這裡，您可以享受傳統手工製作的粵式點心。"
       - "期待您的光臨，讓我們一起度過愉快的一天！"
     descriptionColor: "#ffffff"
     # title2: 
@@ -100,18 +100,18 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
 
-# # Video
-#   - type: "video"
-#     id: ""
-#     title: 
-#       - "Lorem ipsum dolor sit amet"
-#     description: 
-#       - "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et" 
-#     videoType: "gjw" # vimeo | gjw | youtube
-#     videoId: 
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#     isOnlyDisplayOnMobile: false
+# Video
+  - type: "video"
+    id: ""
+    title: 
+      - "Dim Sum Club 點心薈"
+    description: 
+      - "快来品尝我们精选的美味佳肴，甘香流沙包、水晶蝦餃皇、上海小籠包、百花釀茄子、豉汁排骨 ......" 
+      - "快來開啟您的美味之旅！"
+    videoType: "gjw" # vimeo | gjw | youtube
+    videoId: 
+      - "1gus30l309e3Pb9AhQptQPgTK1pv1c"
+    isOnlyDisplayOnMobile: true
 
 # Gallery - menu
   - type: "gallery"
