@@ -75,6 +75,8 @@ sections:
       - "歡迎光臨 Dim Sum Club 點心薈！在這裡，您可以享受傳統手工製作的粵式點心。"
       - "期待您的光臨，讓我們一起度過愉快的一天！"
     descriptionColor: "#ffffff"
+    isTextAlignCenter: true
+
     # title2: 
     #   - ""
     # title2Color: "#ffffff"
@@ -89,8 +91,8 @@ sections:
 
     btn1Text: "在線訂餐"
     btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b" 
-    btn2Text: "餐桌預定" 
-    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true" 
+    btn2Text: "電話: (415) 579-3688" 
+    btn2Href: "tel:415-579-3688" 
 
     bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight

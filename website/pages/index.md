@@ -7,7 +7,7 @@ logo: "點心薈LOGO-定.webp"
 primaryColor: "#7E1C1D" # logo color
 secondaryColor: "#EBB73D"
 primaryColorScheme: "dark" # dark | light
-secondaryColorScheme: "dark"
+secondaryColorScheme: "light"
 cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
@@ -72,6 +72,7 @@ sections:
     description: 
       - "Welcome to Dim Sum Club, Come and enjoy your day with traditional handmade Cantonese style dim sums!"
     descriptionColor: "#ffffff"
+    isTextAlignCenter: true
     # title2: 
     #   - ""
     # title2Color: "#ffffff"
@@ -86,8 +87,8 @@ sections:
 
     btn1Text: "See MENU & Order"
     btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b" 
-    btn2Text: "Table Reservation" 
-    btn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true" 
+    btn2Text: "Tel: (415) 579-3688" 
+    btn2Href: "tel: 415-579-3688" 
 
     bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight
