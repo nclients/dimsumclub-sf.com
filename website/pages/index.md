@@ -118,8 +118,25 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food At Dim Sum Club"
-      - "點心薈"
+      - "Delicious Dim Sum"
+    titleColor: "#000000"
+    description: 
+      - ""
+    descriptionColor: "#333333"
+    folderPath: "gallery1"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
+# Gallery - menu
+  - type: "gallery"
+    id: "gallery"
+    mode: 3 # 1 - 3
+    bgImg: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "Delicious Cuisine"
     titleColor: "#000000"
     description: 
       - ""
@@ -128,7 +145,6 @@ sections:
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
-
 
 # textBlock - about us
   - type: "textBlock" 
@@ -247,7 +263,7 @@ sections:
   - type: "textBlock" 
     noMarginTop: false
     id: ""
-    bgImg: "gallery/001_Dim Sum Club 點心薈.webp"
+    bgImg: "Dim Sum Club 點心薈a.webp"
     bgColor: "#000"
     bgOpacity: "0.6" # 0~1
     title: 
