@@ -51,8 +51,8 @@ header:
   addTelBtn: true
   otherBtn1InsteadText: "Order Oline"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b"
-  otherBtn2InsteadText: "Reservation"
-  otherBtn2Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu/reservation?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b&reservation=true&client_is_mobile=true"
+  otherBtn2InsteadText: ""
+  otherBtn2Href: ""
 
 sections:
 # hero
