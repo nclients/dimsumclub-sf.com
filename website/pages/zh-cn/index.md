@@ -354,14 +354,19 @@ footer:
 
   acceptedPaymentMethodsInsteadText: "付款方式"
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  addressInsteadText: ""
+  address: 
+    - address: "2237 Taraval St, San Francisco, CA 94116"
+      url: "https://maps.app.goo.gl/8jTL3ZwV9JjpWQiQA"
+
 
   # at a minimum, please make sure to include the meta description.
-  seo:
-    metaTitle: "Dim Sum Club 點心薈 - 三藩市的正宗廣東菜，粵菜"
-    metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受傳統廣東菜，粵菜与卓越服務的完美结合。還提供外带或在線訂購服務！" 
-    keywords: ""
-    img: ""
-    thisPageUrl: ""
-    locale: "zh_TW" # zh_TW | zh_CN
+seo:
+  metaTitle: "Dim Sum Club 點心薈 - 三藩市的正宗廣東菜，粵菜"
+  metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受傳統廣東菜，粵菜与卓越服務的完美结合。還提供外带或在線訂購服務！" 
+  img: "https://dimsumclub-sf.com/Dim%20Sum%20Club%20%E9%BB%9E%E5%BF%83%E8%96%88.webp"
+  thisPageUrl: "https://dimsumclub-sf.com/"
+  canonicalHref: "https://dimsumclub-sf.com/" # https://example.com/
+  locale: "zh_TW" # zh_TW | zh_CN
 ---
 <!-- hello world -->

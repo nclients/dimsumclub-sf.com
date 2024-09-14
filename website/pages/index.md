@@ -347,14 +347,20 @@ footer:
 
   acceptedPaymentMethodsInsteadText: ""
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
+  addressInsteadText: "地址："
+  address: 
+    - address: "2237 Taraval St, San Francisco, CA 94116"
+      url: "https://maps.app.goo.gl/8jTL3ZwV9JjpWQiQA"
+
 
   # at a minimum, please make sure to include the meta description.
 seo:
   metaTitle: "Dim Sum Club 點心薈 - Authentic Cantonese Dim Sums in SF"
   metaDescription: "Discover Dim Sum Club 點心薈 in San Francisco, CA, where traditional handmade Cantonese dim sums meet outstanding service. takeaway food or Order online now!" 
-  keywords: ""
-  img: ""
-  thisPageUrl: ""
+  img: "https://dimsumclub-sf.com/Dim%20Sum%20Club%20%E9%BB%9E%E5%BF%83%E8%96%88.webp"
+  thisPageUrl: "https://dimsumclub-sf.com/"
   locale: "en_US" # zh_TW | zh_CN
+  canonicalHref: "https://dimsumclub-sf.com/" # https://example.com/
+
 ---
 <!-- hello world -->
