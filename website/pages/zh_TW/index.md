@@ -28,7 +28,8 @@ tel: "415-579-3688"
 
 # header
 header:
-  logoSize: 50
+  logoSize: 70
+  logoSizeOnMobile: 50
   textAfterLogo: 
     text: ""
     size: 20
@@ -38,7 +39,7 @@ header:
   bgOpacity: "0.9" # 0~1
   menuTextColor: "#000"
   menu:
-    - { text: "首頁", link: "/zh-cn" }
+    - { text: "首頁", link: "/zh_TW" }
     - { text: "菜品展示", link: "#gallery" }
     - { text: "關於我們", link: "#about-us" }
     - { text: "聯繫我們", link: "#contact-us" }
@@ -60,7 +61,7 @@ sections:
 # hero
   - type: "hero" 
     id: ""
-    height: "80" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "video" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlmtv3tum2JZzTBY29WfNi01rl1c"
@@ -108,12 +109,12 @@ sections:
     title: 
       - "Dim Sum Club 點心薈"
     description: 
-      - "快来品尝我们精选的美味佳肴，甘香流沙包、水晶蝦餃皇、上海小籠包、百花釀茄子、豉汁排骨 ......" 
-      - "快來開啟您的美味之旅！"
+      - "" 
+      - ""
     videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
       - "1gus30l309e3Pb9AhQptQPgTK1pv1c"
-    isOnlyDisplayOnMobile: true
+    isOnlyDisplayOnMobile: false
 
 # Gallery - menu
   - type: "gallery"
@@ -126,7 +127,7 @@ sections:
       - "美味點心"
     titleColor: "#000000"
     description: 
-      - ""
+      - "快来品尝我们精选的美味佳肴，甘香流沙包、水晶蝦餃皇、上海小籠包、百花釀茄子、豉汁排骨 ......"
     descriptionColor: "#333333"
     folderPath: "gallery1"
     showImgName: false # true | false
@@ -144,7 +145,7 @@ sections:
       - "美味菜餚"
     titleColor: "#000000"
     description: 
-      - ""
+      - "快來開啟您的美味之旅！"
     descriptionColor: "#333333"
     folderPath: "gallery"
     showImgName: false # true | false
@@ -284,8 +285,8 @@ sections:
     noMarginTop: true
     id: "contact-us"
     mode: "fullWidth" # full-width | ...
-    url: "https://maps.app.goo.gl/8jTL3ZwV9JjpWQiQA"
-    iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.3236446052001!2d-122.49179671757695!3d37.742276930733766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7d82ee0f4663%3A0xde21cc529fccf39d!2zRGltIFN1bSBDbHViIOm7nuW_g-iWiA!5e0!3m2!1sen!2sus!4v1723080951228!5m2!1sen!2sus"
+    url: "https://maps.app.goo.gl/757AKRaYLAQ2aTb3A"
+    iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.611833512855!2d-122.42643388796009!3d37.799135671862416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808580e7fe35ab13%3A0x1bbee07675c9621b!2sDim%20Sum%20Club!5e0!3m2!1szh-CN!2sca!4v1731542744169!5m2!1szh-CN!2sca"
     addTelBtn: true
     tel: ""
     telInsteadText: "電話：415-579-3688"
@@ -322,19 +323,19 @@ footer:
   openingHours: 
     - "週一、 週三～週五"
     - "10:30 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "週六、日"
+    - "週六、週日"
     - "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
     - "週二  休息"
   
   isLogo: false
   logoSize: 120
  
-  menu:
-    - { text: "首頁", link: "/zh-cn" }
-    - { text: "菜品展示", link: "#gallery" }
-    - { text: "關於我們", link: "#about-us" }
-    - { text: "聯繫我們", link: "#contact-us" }
-    - { text: "English", link: "/" }
+  # menu:
+  #   - { text: "首頁", link: "/zh_TW" }
+  #   - { text: "菜品展示", link: "#gallery" }
+  #   - { text: "關於我們", link: "#about-us" }
+  #   - { text: "聯繫我們", link: "#contact-us" }
+  #   - { text: "English", link: "/" }
 
   FB: false
   FBLink: ""
@@ -354,7 +355,7 @@ footer:
 
   acceptedPaymentMethodsInsteadText: "付款方式"
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
-  addressInsteadText: ""
+  addressInsteadText: "地址"
   address: 
     - address: "2237 Taraval St, San Francisco, CA 94116"
       url: "https://maps.app.goo.gl/8jTL3ZwV9JjpWQiQA"
@@ -362,7 +363,7 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Dim Sum Club 點心薈 - 三藩市的正宗廣東菜，粵菜"
+  metaTitle: "Dim Sum Club 點心薈｜三藩市｜廣東菜｜粵菜"
   metaDescription: "探索三藩市的 Dim Sum Club 點心薈，享受傳統廣東菜，粵菜与卓越服務的完美结合。還提供外带或在線訂購服務！" 
   img: "https://dimsumclub-sf.com/Dim%20Sum%20Club%20%E9%BB%9E%E5%BF%83%E8%96%88.webp"
   thisPageUrl: "https://dimsumclub-sf.com/"

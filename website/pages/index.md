@@ -27,7 +27,8 @@ tel: "415-579-3688"
 
 # header
 header:
-  logoSize: 50
+  logoSize: 70
+  logoSizeOnMobile: 50
   textAfterLogo: 
     text: ""
     size: 20
@@ -41,7 +42,7 @@ header:
     - { text: "Gallery", link: "#gallery" }
     - { text: "About Us", link: "#about-us" }
     - { text: "Contact Us", link: "#contact-us" }
-    - { text: "中文", link: "/zh-cn" }
+    - { text: "中文", link: "/zh_TW" }
   
   addOrderOnlineBtn: false
   orderOnlineBtnInsteadText: ""
@@ -58,7 +59,7 @@ sections:
 # hero
   - type: "hero" 
     id: ""
-    height: "80" # Conditionally use only when sectionType is imgBg
+    height: "100" # Conditionally use only when sectionType is imgBg
     sectionType: "video" # video | imgWithText | imgBg
     bgVideoType: "gjw" # youtube | vimeo | gjw
     bgVideoId: "1gvlmtv3tum2JZzTBY29WfNi01rl1c"
@@ -87,7 +88,7 @@ sections:
 
     btn1Text: "See MENU & Order"
     btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=3a3ff07f-24b2-43f5-9bcb-9f60d2ca5e9b" 
-    btn2Text: "Tel: (415) 579-3688" 
+    btn2Text: "Tel: 415-579-3688" 
     btn2Href: "tel: 415-579-3688" 
 
     bannerImg: ""
@@ -108,7 +109,7 @@ sections:
     videoType: "gjw" # vimeo | gjw | youtube
     videoId: 
       - "1gus30l309e3Pb9AhQptQPgTK1pv1c"
-    isOnlyDisplayOnMobile: true
+    isOnlyDisplayOnMobile: false
 
 # Gallery - menu
   - type: "gallery"
@@ -314,21 +315,22 @@ footer:
 
   openingHoursInsteadText: ""
   openingHours: 
-    - "Mon, Wed-Fri"
+    - "Mon, Wed ~ Fri"
     - "10:30 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "Sat-Sun"
+    - "Sat ~ Sun"
     - "10:00 AM - 3:00 PM, 5:00 PM - 9:00 PM"
-    - "Tue: Closed"
+    - "Tue Closed"
+    
   
   isLogo: false
   logoSize: 120
  
-  menu:
-    - { text: "Home", link: "/" }
-    - { text: "Gallery", link: "#gallery" }
-    - { text: "About Us", link: "/#about-us" }
-    - { text: "Contact Us", link: "/#contact-us" }
-    - { text: "中文", link: "/zh-cn" }
+  # menu:
+  #   - { text: "Home", link: "/" }
+  #   - { text: "Gallery", link: "#gallery" }
+  #   - { text: "About Us", link: "/#about-us" }
+  #   - { text: "Contact Us", link: "/#contact-us" }
+  #   - { text: "中文", link: "/zh_TW" }
 
   FB: false
   FBLink: ""
@@ -347,7 +349,7 @@ footer:
 
   acceptedPaymentMethodsInsteadText: ""
   paymentMethod: "cash,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
-  addressInsteadText: "地址："
+  addressInsteadText: "Address" 
   address: 
     - address: "2237 Taraval St, San Francisco, CA 94116"
       url: "https://maps.app.goo.gl/8jTL3ZwV9JjpWQiQA"
@@ -355,7 +357,7 @@ footer:
 
   # at a minimum, please make sure to include the meta description.
 seo:
-  metaTitle: "Dim Sum Club 點心薈 - Authentic Cantonese Dim Sums in SF"
+  metaTitle: "Dim Sum Club 點心薈｜Cantonese Dim Sums｜SF"
   metaDescription: "Discover Dim Sum Club 點心薈 in San Francisco, CA, where traditional handmade Cantonese dim sums meet outstanding service. takeaway food or Order online now!" 
   img: "https://dimsumclub-sf.com/Dim%20Sum%20Club%20%E9%BB%9E%E5%BF%83%E8%96%88.webp"
   thisPageUrl: "https://dimsumclub-sf.com/"
